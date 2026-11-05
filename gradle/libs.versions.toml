@@ -27,6 +27,8 @@ androidx-compose-material3 = { group = "androidx.compose.material3", name = "mat
 
 #Tambahan
 lifecycle-viewmodel-compose = {modile = "androidx.lifecycle:lifecycle-viewmodel-compose", versioopn = "2.9.4"}
+lifecycle-runtime-compose = {module = "androidx.lifecycle:lifecycle-runtime-compose", version = "2.9.4"}
+
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
